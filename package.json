@@ -1,0 +1,26 @@
+{
+  "name": "message-bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/Huholoman/message-bus"
+  },
+  "keywords": [
+    "message",
+    "bus",
+    "event",
+    "command",
+    "cqrs",
+    "javascript",
+    "js",
+    "ts",
+    "typescript"
+  ],
+  "author": "Tobiáš Štancel",
+  "license": "ISC"
+}
